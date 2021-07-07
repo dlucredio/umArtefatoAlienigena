@@ -1,0 +1,12 @@
+chapter: 5
+title: Desistindo
+character: garcia
+conditions:
+    - fisher=desistirEIrEmbora
+    - garcia=*
+continue:
+    - chapter: 4
+    - decision: garcia=procurarAmigo
+---
+
+Fisher sugere que eles desistam.

@@ -1,0 +1,16 @@
+chapter: 3
+title: Na agência espacial
+character: garcia
+conditions:
+    - fisher=*
+    - garcia=*
+decisions:
+    - action: procurarAmigo
+      text: Sugerir a Fisher para procurar um amigo
+      chapter: 4
+    - action: entrarPelosFundos
+      text: Sugerir a Fisher para entrar pelos fundos
+      chapter: 4
+---
+
+Fisher e Garcia chegam até a agência espacial. Eles conversam com os responsáveis, mas eles rapidamente despistam os agentes, dizendo que tudo era boato. Garcia tem uma ideia.

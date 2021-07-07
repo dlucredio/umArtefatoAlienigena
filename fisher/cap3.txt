@@ -1,0 +1,11 @@
+chapter: 3
+title: Na agência espacial
+character: fisher
+conditions:
+    - fisher=*
+    - garcia=*
+continue:
+    - chapter: 4
+---
+
+Fisher e Garcia chegam até a agência espacial. Eles conversam com os responsáveis, mas eles rapidamente despistam os agentes, dizendo que tudo era boato.

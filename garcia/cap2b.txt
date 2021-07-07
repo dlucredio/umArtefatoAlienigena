@@ -1,0 +1,11 @@
+chapter: 2
+title: Acordando cedo
+character: garcia
+conditions:
+    - fisher=voltarADormir
+    - garcia=*
+continue:
+    - chapter: 3
+---
+
+Garcia estava dormindo na varanda. Já era cedo quando algo o acordou. É Fisher, dizendo algo sobre um programa de TV e um artefato alienígena. Ele tira sarro dela, mas ela o convence a investigar. Ele entra pela janela, vai tomar um banho rápido, e depois eles vão até a agência.

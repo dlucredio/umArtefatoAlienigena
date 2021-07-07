@@ -1,0 +1,18 @@
+chapter: 1
+title: O princípio
+character: fisher
+conditions:
+    - fisher=*
+    - garcia=*
+decisions:
+    - action: ligarGarcia
+      text: Ligar para Garcia
+      chapter: 2
+    - action: voltarADormir
+      text: Voltar a dormir e investigar no dia seguinte
+      chapter: 2
+---
+
+Fisher acorda de madrugada.
+
+Resolve tomar um leite, e liga a TV. Está passando um documentário sensacionalista. No documentário, aparece um suposto artefato alienígena em órbita na Terra. A princípio, ela não dá bola, mas algo lhe chama atenção. A TV mostra um esboço do artefato, que teria sido observado por astronautas que conseguiram uma foto de perto. Ela acha que pode valer a pena investigar, talvez dar um pulo até a agência espacial. Será que Garcia está acordado? O que Fisher vai fazer?

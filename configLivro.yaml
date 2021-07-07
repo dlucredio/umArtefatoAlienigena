@@ -1,0 +1,9 @@
+title: Um artefato alienígena
+author: Daniel Lucrédio
+characters:
+    - id: fisher
+      name: Agente Fisher
+      description: A agente Fisher trabalha em uma agência governamental que investiga fenômenos paranormais, junto com seu colega, o agente Garcia. Ela é extremamente intuitiva e decidida, e raramente comete erros em seu julgamento. Sua principal fraqueza é a falta de segurança em assuntos familiares.
+    - id: garcia
+      name: Agente Garcia
+      description: O agente Garcia trabalha em uma agência governamental que investiga fenômenos paranormais, junto com sua colega, a agente Fisher. Garcia é um profissional competente e dedicado, com inteligência aguçada e sentidos apurados. É um pouco presunçoso e arrogante às vezes, mas é honesto e tem boas intenções.

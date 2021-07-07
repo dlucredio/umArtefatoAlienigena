@@ -1,0 +1,11 @@
+chapter: 4
+title: Quem é esse amigo?
+character: garcia
+conditions:
+    - fisher=*
+    - garcia=procurarAmigo
+continue:
+    - chapter: 6
+---
+
+Garcia sugere à Fisher para procurarem um amigo. Relutante, ela aceita. Eles vão até uma boate estranha, e encontram o amigo de Garcia. Ele os leva até sua casa, onde marca um encontro com um funcionário da agência. Eles voltam até lá e o encontram. O tal funcionário diz saber o segredo do artefato.

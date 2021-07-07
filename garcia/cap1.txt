@@ -1,0 +1,11 @@
+chapter: 1
+title: O princípio
+character: garcia
+conditions:
+    - fisher=*
+    - garcia=*
+continue:
+    - chapter: 2
+---
+
+Garcia estava na balada, com uma mulher. Acaba levando um fora e resolve sair dali. No caminho, ele passa por uma vitrine onde está passando um documentário, sobre um suposto artefato alienígena orbitando a Terra. Sem dar muita bola, ele continua até sua casa. Mas ao chegar em casa, não encontra suas chaves, e dorme na porta de casa.

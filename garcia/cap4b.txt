@@ -1,0 +1,11 @@
+chapter: 4
+title: Pelos fundos
+character: garcia
+conditions:
+    - fisher=*
+    - garcia=entrarPelosFundos
+continue:
+    - chapter: 5
+---
+
+Garcia sugere à Fisher para entrarem pelos fundos. Relutante, ela aceita. Eles esperam até o anoitecer e invadem a agência. Lá dentro, eles encontram e rendem um funcionário, mas ele não revela nada.

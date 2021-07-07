@@ -1,0 +1,11 @@
+chapter: 5
+title: Um pouco de pressão
+character: fisher
+conditions:
+    - fisher=pressionarFuncionario
+    - garcia=*
+continue:
+    - chapter: 6
+---
+
+Fisher pressiona o funcionário, que acaba cedendo e os leva até uma sala secreta. Lá eles encontram um outro funcionário que diz saber o segredo do artefato.

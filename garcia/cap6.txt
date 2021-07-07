@@ -1,0 +1,9 @@
+chapter: 6
+title: A descoberta
+character: garcia
+conditions:
+    - fisher=*
+    - garcia=*
+---
+
+O funcionário da agência revela que o artefato existe, e está prestes a cair na Terra. Eles descobrem a data e o local.
