@@ -6,6 +6,7 @@ conditions:
     - garcia=*
 continue:
     - chapter: 3
----
+
+##########
 
 Fisher telefona para Garcia, e ele demora para atender. Mas finalmente atende, parecendo cansado. Depois de um curto bate-papo, menciona o programa de TV. Garcia já sabia, e tira sarro, mas Fisher insiste que eles devem investigar. Relutante, Garcia aceita, e eles topam se encontrar no dia seguinte. Ela dirige até a agência espacial, e o encontra lá, esperando por ela.

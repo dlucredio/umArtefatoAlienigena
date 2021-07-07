@@ -11,7 +11,8 @@ decisions:
     - action: voltarADormir
       text: Voltar a dormir e investigar no dia seguinte
       chapter: 2
----
+
+##########
 
 Fisher acorda de madrugada.
 

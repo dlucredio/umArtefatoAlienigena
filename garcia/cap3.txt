@@ -11,6 +11,7 @@ decisions:
     - action: entrarPelosFundos
       text: Sugerir a Fisher para entrar pelos fundos
       chapter: 4
----
+
+##########
 
 Fisher e Garcia chegam até a agência espacial. Eles conversam com os responsáveis, mas eles rapidamente despistam os agentes, dizendo que tudo era boato. Garcia tem uma ideia.

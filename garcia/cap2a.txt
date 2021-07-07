@@ -6,7 +6,8 @@ conditions:
     - garcia=*
 continue:
     - chapter: 3
----
+
+##########
 
 Garcia estava dormindo na varanda. Ainda era de madrugada, mas algo o acordou, era o telefone. Ele entra pela janela e atende. É Fisher, dizendo algo sobre um programa de TV e um artefato alienígena. Ele tira sarro dela, mas ela o convence a investigar. Ele vai tomar banho, dorme mais um pouco, depois vai ao encontro dela, na agência espacial.
 

@@ -6,6 +6,7 @@ conditions:
     - garcia=*
 continue:
     - chapter: 3
----
+
+##########
 
 Fisher volta a dormir. No dia seguinte, ela vai até a casa de Garcia, e o encontra trancado para fora, dormindo na varanda. Ela o acorda, menciona o programa de TV. Ele parece não se lembrar direito, e tira sarro, mas Fisher acaba insistindo e eles topam. Garcia entra pela janela e depois de um tempo eles vão até a agência.
