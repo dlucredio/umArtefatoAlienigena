@@ -3,7 +3,7 @@ title: Acordando cedo
 character: garcia
 conditions:
     - fisher=voltarADormir
-    - garcia=irParaCasa
+    - garcia=*
 outcomes:
     - action: continue
       chapter: 3

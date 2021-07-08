@@ -3,7 +3,7 @@ title: Um telefonema
 character: fisher
 conditions:
     - fisher=ligarGarcia
-    - garcia=irNoBanheiro
+    - garcia=*
 outcomes:
     - action: continue
       chapter: 3

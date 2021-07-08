@@ -5,15 +5,8 @@ conditions:
     - fisher=*
     - garcia=*
 outcomes:
-    - action: irNoBanheiro
-      text: Ir no banheiro
+    - action: continue
       chapter: 2
-    - action: irParaCasa
-      text: Ir para casa
-      chapter: 2
-    - action: ficarNaBalada
-      text: Ficar na balada
-      chapter: 3
 
 ##########
 

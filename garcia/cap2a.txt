@@ -3,7 +3,7 @@ title: Um telefonema de madrugada
 character: garcia
 conditions:
     - fisher=ligarGarcia
-    - garcia=irNoBanheiro
+    - garcia=*
 outcomes:
     - action: continue
       chapter: 3
