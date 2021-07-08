@@ -4,8 +4,9 @@ character: garcia
 conditions:
     - fisher=*
     - garcia=procurarAmigo
-continue:
-    - chapter: 6
+outcomes:
+    - action: continue
+      chapter: 6
 
 ##########
 

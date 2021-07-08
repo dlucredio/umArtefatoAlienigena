@@ -4,7 +4,7 @@ character: garcia
 conditions:
     - fisher=*
     - garcia=*
-decisions:
+outcomes:
     - action: procurarAmigo
       text: Sugerir a Fisher para procurar um amigo
       chapter: 4

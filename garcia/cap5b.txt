@@ -4,9 +4,11 @@ character: garcia
 conditions:
     - fisher=desistirEIrEmbora
     - garcia=*
-continue:
-    - chapter: 4
-    - decision: garcia=procurarAmigo
+outcomes:
+    - action: continue
+      chapter: 4
+      forceConditions:
+        - garcia=procurarAmigo
 
 ##########
 

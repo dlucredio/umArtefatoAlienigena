@@ -4,7 +4,7 @@ character: fisher
 conditions:
     - fisher=*
     - garcia=entrarPelosFundos
-decisions:
+outcomes:
     - action: pressionarFuncionario
       text: Pressionar violentamente o funcionário
       chapter: 5

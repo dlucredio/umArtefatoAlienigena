@@ -4,7 +4,7 @@ character: fisher
 conditions:
     - fisher=*
     - garcia=*
-decisions:
+outcomes:
     - action: ligarGarcia
       text: Ligar para Garcia
       chapter: 2

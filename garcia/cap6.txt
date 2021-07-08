@@ -4,6 +4,8 @@ character: garcia
 conditions:
     - fisher=*
     - garcia=*
+outcomes:
+    - action: end
 
 ##########
 

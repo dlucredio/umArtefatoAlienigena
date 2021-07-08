@@ -4,8 +4,9 @@ character: garcia
 conditions:
     - fisher=ligarGarcia
     - garcia=*
-continue:
-    - chapter: 3
+outcomes:
+    - action: continue
+      chapter: 3
 
 ##########
 

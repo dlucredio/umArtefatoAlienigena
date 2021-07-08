@@ -4,8 +4,9 @@ character: garcia
 conditions:
     - fisher=*
     - garcia=entrarPelosFundos
-continue:
-    - chapter: 5
+outcomes:
+    - action: continue
+      chapter: 5
 
 ##########
 
