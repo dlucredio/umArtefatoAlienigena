@@ -1,5 +1,5 @@
 chapter: 3
-title: Na agência espacial xyz
+title: Na agência espacial
 character: garcia
 conditions:
     - fisher=*
