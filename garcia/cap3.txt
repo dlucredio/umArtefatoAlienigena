@@ -3,7 +3,7 @@ title: Na agência espacial
 character: garcia
 conditions:
     - fisher=*
-    - garcia=umaAcaoQualquer
+    - garcia=*
 outcomes:
     - action: procurarAmigo
       text: Sugerir a Fisher para procurar um amigo
