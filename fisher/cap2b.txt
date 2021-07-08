@@ -3,7 +3,7 @@ title: No outro dia
 character: fisher
 conditions:
     - fisher=voltarADormir
-    - garcia=*
+    - garcia=irParaCasa
 outcomes:
     - action: continue
       chapter: 3
