@@ -8,6 +8,7 @@ outcomes:
     - action: continue
       chapter: 4
       forceConditions:
+        - fisher=*
         - garcia=procurarAmigo
 
 ##########
